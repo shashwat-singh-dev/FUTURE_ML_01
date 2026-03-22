@@ -106,7 +106,7 @@ python sales_forecasting_xgboost.py
 ```
 ## 👨‍💻 Author
 **Shashwat Singh**  
-B.Tech (3rd Year) | Data Analyst | Machine Learning Enthusiast  
+B.Tech (3rd Year) | Data Analyst | Machine Learning  
 
 ---
 
