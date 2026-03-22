@@ -59,7 +59,7 @@ Created meaningful time-series features:
 ## 📊 Visualization
 Actual vs Predicted sales comparison:
 
-*(Add your plot image here)*
+*![Sales Forecast](Actual_vs_Predicted.png)*
 
 ---
 
