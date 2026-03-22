@@ -1,9 +1,37 @@
 # 📊 Sales Forecasting using XGBoost
 
+---
+
+## 🚀 Problem Statement
+
+The objective of this project is to forecast future sales using historical data.  
+The dataset contains time-based sales records, and the challenge is to capture temporal patterns such as trends, seasonality, and fluctuations.
+
+The goal is to build a machine learning model that minimizes prediction error (MAE) and provides reliable forecasts.
+
+---
 ## 🚀 Project Overview
 This project focuses on **time series sales forecasting** using machine learning.  
 The goal was to predict future sales based on historical patterns using feature engineering and advanced models.
 
+---
+## 💡 Key Insights
+
+- Time-series problems require **lag-based features** rather than simple regression
+- Basic models like Linear Regression and Random Forest failed to capture temporal dependencies (MAE > 700)
+- XGBoost performed better due to its ability to model non-linear patterns
+- Removing unnecessary features improved performance significantly
+- Feature engineering (Lag + Rolling Mean) was the **key factor in reducing error**
+- Final optimized MAE achieved: ~686
+---
+## ⚡ Challenges & Improvements
+
+- Initial models gave high error (>700 MAE)
+- Adding too many features sometimes worsened performance
+- Identifying useful features required experimentation
+- Lag features (Lag_1, Lag_7, Lag_14, Lag_30) improved results
+- Hyperparameter tuning (n_estimators, max_depth) helped reduce MAE
+- Learned importance of feature selection in time-series ML
 ---
 
 ## 🧠 Approach
