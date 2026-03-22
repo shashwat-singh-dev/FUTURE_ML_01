@@ -94,7 +94,7 @@ Actual vs Predicted sales comparison:
 ## 📁 Files Included
 - `sales_forecasting_xgboost.py` → Main model code  
 - `sales.csv` → Dataset  
-- `Actual_vs_Predicted.png` → Visualization (optional)
+- `Actual_vs_Predicted.png` → Model performance visualization
 
 ---
 
