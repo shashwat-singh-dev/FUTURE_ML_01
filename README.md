@@ -10,7 +10,7 @@ The dataset contains time-based sales records, and the challenge is to capture t
 The goal is to build a machine learning model that minimizes prediction error (MAE) and provides reliable forecasts.
 
 ---
-## 📌 Project Overview
+## 📌 Project Overvie
 This project focuses on **time series sales forecasting** using machine learning.  
 The goal was to predict future sales based on historical patterns using feature engineering and advanced models.
 
