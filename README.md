@@ -84,7 +84,7 @@ Created meaningful time-series features:
 
 ---
 
-## 📊 Visualizationnnnnn
+## 📊 Visualization
 Actual vs Predicted sales comparison:
 
 *![Sales Forecast](Actual_vs_Predicted.png)*
