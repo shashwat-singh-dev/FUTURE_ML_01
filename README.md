@@ -43,7 +43,7 @@ The goal was to predict future sales based on historical patterns using feature 
 
 ---
 
-### 2. Feature Engineeringggggggggggggggggggggggggggg
+### 2. Feature Engineering
 Created meaningful time-series features:
 
 - 📅 Date Features:
