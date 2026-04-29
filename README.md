@@ -15,7 +15,7 @@ This project focuses on **time series sales forecasting** using machine learning
 The goal was to predict future sales based on historical patterns using feature engineering and advanced models.
 
 ---
-## 💡 Key Insights
+## 💡 Key Insightsssssssssssssssssssssssss
 
 - Time-series problems require **lag-based features** rather than simple regression
 - Basic models like Linear Regression and Random Forest failed to capture temporal dependencies (MAE > 700)
